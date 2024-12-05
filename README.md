@@ -1,6 +1,6 @@
 JokeApp
 
-#Instalacja
+# Instalacja
 
  - Przejdź do folderu projektu: cd AplikacjeMobilne/JokeApp
 
